@@ -1,4 +1,10 @@
 ### Hi there 👋
+＼(･_･)＞   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)&nbsp;)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;\    
+  
+  Let me dance XD
+<!-- [![Verycosy's github stats](https://github-readme-stats.vercel.app/api?username=verycosy)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **verycosy/verycosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
