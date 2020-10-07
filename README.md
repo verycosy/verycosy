@@ -1,22 +1,17 @@
-### Hi there 👋
-＼(･_･)＞   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)&nbsp;)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;\    
-  
-  Let me dance XD
-<!-- [![Verycosy's github stats](https://github-readme-stats.vercel.app/api?username=verycosy)](https://github.com/anuraghazra/github-readme-stats) -->
+# Hi 👋
 
-<!--
-**verycosy/verycosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="200" alt="GIF" align="right" src="https://github.com/verycosy/verycosy/blob/master/assets/람쥐썬더.gif">
 
-Here are some ideas to get you started:
+# About Me 💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm
+
+- Backend Engineer
+- Cross-platform App Developer
+
+### My Interests
+
+- WebRTC
+- IoT
+- Super Resolution
+- DevOps
