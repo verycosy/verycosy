@@ -1,20 +1,21 @@
-# Hi 👋
+# Hello there 👋
 
-<img width="500" alt="GIF" align="left" src="https://github.com/verycosy/verycosy/blob/master/assets/람쥐썬더.gif">
-
-<br />
+<img width="500" alt="GIF" src="https://github.com/verycosy/verycosy/blob/master/assets/람쥐썬더.gif">
 <br />
 
 # About Me 💬
 
-### I'm
+## I'm Full Stack Developer from Korea !
 
-- Backend Engineer
-- Cross-platform App Developer
+### 🎯 Focusing
 
-### My Interests
+- Backend Engineering
+- Network Architecture
+
+### ✨ My Interests
 
 - WebRTC
-- IoT
-- Super Resolution
 - DevOps
+- Microservice
+- IoT with RaspberryPi
+- Super Resolution
