@@ -1,6 +1,9 @@
 # Hi 👋
 
-<img width="200" alt="GIF" align="right" src="https://github.com/verycosy/verycosy/blob/master/assets/람쥐썬더.gif">
+<img width="500" alt="GIF" align="left" src="https://github.com/verycosy/verycosy/blob/master/assets/람쥐썬더.gif">
+
+<br />
+<br />
 
 # About Me 💬
 
