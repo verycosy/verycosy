@@ -1,7 +1,3 @@
-# Hi there 👋
-
-<img width="500" alt="GIF" src="https://github.com/verycosy/verycosy/blob/master/assets/람쥐썬더.gif">
-
 ### 🎯 Focusing
 
 - Backend Engineering
@@ -12,5 +8,7 @@
 - WebRTC
 - DevOps
 - Microservice
-- IoT with RaspberryPi
-- Super Resolution
+- Monorepo
+
+### 💻 Contributed
+- fixed non expiring cache issue on Nest.js
