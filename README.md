@@ -6,9 +6,8 @@
 ### ✨ Interests
 
 - WebRTC
-- DevOps
-- Microservice
 - Monorepo
+- Pokémon
 
 ### 💻 Contributed
 - fixed non expiring cache issue on Nest.js
