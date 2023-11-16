@@ -1,1 +1,1 @@
-[더보기](https://verycosy.net)
+[더보기](https://verycosy.net/about)
