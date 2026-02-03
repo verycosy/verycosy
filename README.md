@@ -7,5 +7,8 @@ Product Enginner
 - [nestjs/docs.nestjs.com] Added the documentation for WebSocket namespaces ([🔗](https://github.com/nestjs/docs.nestjs.com/pull/2866))
 - [toss/nestjs-aop] Added testing caveats ([🔗](https://github.com/toss/nestjs-aop/pull/39))
 
+### Talk
+- [TSBM/2025-08] When Node Alone Isn't Enough: IPC ([🔗](https://www.youtube.com/watch?v=rAe3P76lJ74))
+
 ### Patent
 - Super-resolution streaming video transmission system based on mobile edge computing to reduce network traffic ([🔗](https://patents.google.com/patent/KR102271371B1/ko))
