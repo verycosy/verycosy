@@ -1,4 +1,4 @@
-Product Enginner
+Product Engineer
 
 ### Open Source Contributions
 - [libuv/libuv] Improved Node.js IPC performance by up to 4x on macOS ([🔗](https://github.com/libuv/libuv/pull/4694), [📝](https://www.verycosy.net/posts/2025/03/nodejs-ipc-performance-via-libuv-contribution))
